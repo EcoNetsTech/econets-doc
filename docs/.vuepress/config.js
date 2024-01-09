@@ -27,6 +27,9 @@ module.exports = {
         text: '开发指南', link: '/pages/52d5c3/', items: [
           { text: '简介', link: '/pages/52d5c3/' },
           { text: '功能列表', link: '/pages/7a110a/' },
+          { text: '快速启动（后端项目）', link: '/pages/595798/' },
+          { text: '快速启动（前端项目）', link: '/pages/b042ff/' },
+          { text: '技术选型', link: '/pages/f373bc/' },
         ]
       },
       {
