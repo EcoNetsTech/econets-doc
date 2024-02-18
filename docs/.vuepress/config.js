@@ -28,6 +28,7 @@ module.exports = {
           { text: '萌新必读', link: '/pages/52d5c3/' },
           { text: '后端手册', link: '/pages/8dfab5/' },
           { text: '中间件手册', link: '/pages/dfee1b/' },
+          { text: '工作流手册', link: '/pages/b3681e/' },
         ]
       },
       {
