@@ -102,7 +102,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2019, // 博客创建年份
-      copyrightInfo: 'EcoNets Tech | MIT License', // 博客版权信息，支持a标签
+      copyrightInfo: 'EcoNets Tech | <a href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备18029907号-2</a> | <a href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备18029907号-3</a>', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
